@@ -4,7 +4,7 @@
   "description": "Blake2b (64-bit version) in pure Javascript",
   "main": "index.js",
   "dependencies": {
-    "blake2b-wasm": "^2.4.0",
+    "blake2b-wasm": "git+https://github.com/RabbyHub/mirror-blake2b-wasm.git",
     "nanoassert": "^2.0.0"
   },
   "devDependencies": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilbayes/blake2b.git"
+    "url": "git+https://github.com/bitcandy/blake2b.git"
   },
   "keywords": [],
   "author": "Emil Bay <github@tixz.dk>",
